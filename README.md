@@ -53,7 +53,7 @@ git config --global user.name "lephotographelibre"
 
 Navigate to the directory where you want to clone the Git cloud repository.
 Clone the Git cloud repository using the desired protocol.
-git clone https://github.com/lephotographelibre/LinuxPhotoWorkflow.git
+git clone https://github.com/lephotographelibre/lephotographelibre.github.io.git
 
 Copy the application files to the cloned repository directory.
 
